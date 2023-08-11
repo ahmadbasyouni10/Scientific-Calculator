@@ -6,7 +6,7 @@ using namespace std;
 // Function declarations
 void addition();
 void subtraction();
-void multiplication()
+void multiplication();
 void division();
 void power();
 void factorial();
