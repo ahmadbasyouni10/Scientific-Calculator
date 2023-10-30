@@ -1,1 +1,1 @@
-# Scientific-Calculator-
+Utilized C++ to create a scientific/trig calculator with the help of classes and functions. Applied concepts like pointers, arrays, and switch cases to take user input and handle error like a calculator would.
